@@ -1,14 +1,14 @@
 # Amanda Natividad - Content Analysis
 
 ## Content Style
-- Clear and educational
-- Structured explanations
-- Easy to follow
+- Feels very structured, but still easy to follow
+- Explains things in a step by step way
+- More educational than personal
 
 ## Patterns
-- Breaks down complex ideas
-- Uses examples
-- Focus on clarity
+- Often breaks down complex ideas into simpler parts
+- Uses examples to make things clearer
+- Focuses more on explaining than storytelling
 
 ## Example Themes
 - Content marketing
@@ -16,4 +16,4 @@
 - Distribution
 
 ## My Insight
-Her content is effective because it simplifies complex topics without losing depth.
+Compared to others, her content feels more like learning material than personal content. From what I observed, this works well for people who want clear explanations, especially beginners.
