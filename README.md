@@ -42,3 +42,20 @@ Not a finished product, more of a documented learning sprint.
 
 ## Repository
 [puspahdyhw/100hires-ai-project](https://github.com/puspahdyhw/100hires-ai-project)
+
+---
+
+## Research Project (Step 2)
+
+For the second step, I focused on analyzing LinkedIn organic content strategies for B2B SaaS.
+
+### What I did:
+- Selected 10 active creators who consistently produce high-performing content
+- Analyzed their content style, structure, and recurring patterns
+- Documented individual breakdowns in `/research/linkedin-posts`
+- Created a synthesis of key insights in `/research/synthesis.md`
+
+### Key Learning
+
+From this research, I realized that strong content is not necessarily complex. The most effective creators focus on clarity, consistency, and making their ideas easy to consume.
+
