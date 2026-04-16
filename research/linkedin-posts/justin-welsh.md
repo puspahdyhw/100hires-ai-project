@@ -1,19 +1,19 @@
 # Justin Welsh - Content Analysis
 
 ## Content Style
-- Extremely concise and punchy
-- Uses short lines to improve readability
-- Focuses on clarity over complexity
+- Very concise and straight to the point
+- Uses short sentences (almost like bullet points)
+- Easy to scan quickly
 
 ## Patterns
-- Strong hook in the first sentence
-- Breaks ideas into very small chunks
-- Repeats key themes across posts
+- Strong first line that feels either bold or relatable
+- Breaks content into small chunks (1–2 lines max)
+- Repeats similar ideas but phrases them differently
 
 ## Example Themes
-- Solopreneurship
+- Solopreneur journey
 - Building audience
-- Monetizing personal brand
+- Monetization
 
 ## My Insight
-From what I observed, his biggest strength is consistency and clarity. His content feels easy to consume, especially for busy professionals who scroll quickly.
+From what I noticed, his content is not actually “new” every time, but it still performs because of how it’s structured. Personally, I feel his biggest strength is making content very easy to consume, especially for people scrolling quickly.
