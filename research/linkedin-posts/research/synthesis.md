@@ -66,4 +66,4 @@ If I were building a LinkedIn content strategy for a B2B SaaS brand, I would:
 - Balance educational content with personal or opinion-driven posts
 - Stay consistent with posting to build familiarity over time
 
-Overall, I would prioritize clarity and consistency over complexity, since that’s what consistently shows up across high-performing creators.
+Overall, I would prioritize clarity and consistency over complexity, since that’s what consistently shows up across high performing creators.
