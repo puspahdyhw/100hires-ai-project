@@ -17,3 +17,9 @@
 
 ## My Insight
 What makes her content strong is the depth. It doesn’t just tell you what works, but explains why it works.
+
+### Example Post
+
+- Topic: Why people buy certain products
+- Format: Story + psychological insight
+- My note: The post uses simple storytelling to explain deeper behavioral insights, making it both engaging and informative.
