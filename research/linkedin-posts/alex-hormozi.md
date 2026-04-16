@@ -18,7 +18,7 @@
 ## My Insight
 Compared to others, his content feels more intense and less “friendly”. But that’s probably why it stands out. In my opinion, it works well for audiences who are looking for clear, actionable advice without too much storytelling.
 
-## Example Post
-- Topic: Business growth vs excuses
-- Format: Strong hook + short paragraphs
-- My note: The opening line feels very “sharp”, it grabs attention instantly and makes people stop scrolling. It’s direct and doesn’t go around in circles.
+### Example Post
+- Topic: Why most businesses fail to scale
+- Format: Strong hook + bold statements + structured points
+- My note: The opening line feels very direct and slightly provocative. It grabs attention instantly and then delivers clear, structured value.
