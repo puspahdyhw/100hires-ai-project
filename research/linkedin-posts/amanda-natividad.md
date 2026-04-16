@@ -21,5 +21,5 @@ Compared to others, her content feels more like learning material than personal 
 ### Example Post
 
 - Topic: Breaking down SEO concepts for beginners
-- Format: Educational post with step by step explanation
-- My note: The post feels more like a mini lesson than a typical LinkedIn post. It’s structured, easy to follow, and focuses on clarity over storytelling.
+- Format: Educational post with step-by-step explanation
+- My note: The content feels like a mini lesson. It’s structured, clear, and focuses more on teaching than storytelling.
