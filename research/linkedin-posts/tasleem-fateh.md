@@ -17,3 +17,9 @@
 
 ## My Insight
 His content is useful because it focuses on immediate action, not theory.
+
+### Example Post
+
+- Topic: Career growth and personal lessons
+- Format: Story + reflection + takeaway
+- My note: The post feels reflective and personal, connecting emotional storytelling with a clear takeaway.
