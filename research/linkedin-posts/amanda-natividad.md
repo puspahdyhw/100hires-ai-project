@@ -17,3 +17,9 @@
 
 ## My Insight
 Compared to others, her content feels more like learning material than personal content. From what I observed, this works well for people who want clear explanations, especially beginners.
+
+### Example Post
+
+- Topic: Breaking down SEO concepts for beginners
+- Format: Educational post with step by step explanation
+- My note: The post feels more like a mini lesson than a typical LinkedIn post. It’s structured, easy to follow, and focuses on clarity over storytelling.
