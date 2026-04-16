@@ -17,3 +17,9 @@
 
 ## My Insight
 What stood out to me is how much he focuses on distribution. Most creators talk about writing better content, but he highlights that getting content seen is just as important.
+
+### Example Post
+
+- Topic: Content distribution strategies
+- Format: Strategic insight + breakdown
+- My note: The content feels more high level and strategic, focusing on distribution rather than just content creation.
