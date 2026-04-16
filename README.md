@@ -47,7 +47,7 @@ Not a finished product, more of a documented learning sprint.
 
 ## Research Project (Step 2)
 
-For the second step, I focused on analyzing LinkedIn organic content strategies for B2B SaaS.
+For the second step, I focused on understanding how top B2B creators approach LinkedIn organic content.
 
 ### What I did:
 - Selected 10 active creators who consistently produce high-performing content
@@ -57,5 +57,6 @@ For the second step, I focused on analyzing LinkedIn organic content strategies 
 
 ### Key Learning
 
+One thing that surprised me is how often top creators repeat similar ideas, but still perform well because of how they structure and present them.
 From this research, I realized that strong content is not necessarily complex. The most effective creators focus on clarity, consistency, and making their ideas easy to consume.
 
