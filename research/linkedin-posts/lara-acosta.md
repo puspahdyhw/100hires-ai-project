@@ -18,7 +18,8 @@
 ## My Insight
 In my opinion, her content works because it feels human. It doesn’t feel like marketing, which makes people more likely to engage.
 
-## Example Post
-- Topic: Building personal brand from zero
-- Format: Story-based + simple breakdown
-- My note: Dia mulai dari pengalaman pribadi, jadi lebih relatable dibanding langsung kasih tips.
+### Example Post
+
+- Topic: Growing an audience from scratch
+- Format: Personal story + reflection
+- My note: The tone feels very human and relatable. It focuses more on experience than structured frameworks.
