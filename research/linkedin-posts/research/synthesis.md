@@ -55,3 +55,15 @@ Some creators even repeat similar ideas, but they still perform well because the
 - Long explanations without clear structure
 - Trying to cover too many ideas in one post
 - Generic tone without a clear point of view
+
+## How I Would Apply This
+
+If I were building a LinkedIn content strategy for a B2B SaaS brand, I would:
+
+- Focus on one clear idea per post instead of trying to cover too much
+- Start with a strong hook that creates curiosity or tension
+- Use simple, scannable formatting (short paragraphs, bullet points)
+- Balance educational content with personal or opinion-driven posts
+- Stay consistent with posting to build familiarity over time
+
+Overall, I would prioritize clarity and consistency over complexity, since that’s what consistently shows up across high-performing creators.
