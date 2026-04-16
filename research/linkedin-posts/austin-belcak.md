@@ -1,14 +1,14 @@
 # Austin Belcak - Content Analysis
 
 ## Content Style
-- Data driven
-- Practical and structured
-- Focus on results
+- Structured and practical
+- Focused on results and proof
+- Feels more data-driven than others
 
 ## Patterns
-- Shares systems and frameworks
-- Uses real outcomes as proof
-- Step by step approach
+- Often shares frameworks or step by step methods
+- Uses real examples or outcomes
+- Focuses on what actually works, not theory
 
 ## Example Themes
 - Career growth
@@ -16,4 +16,4 @@
 - Personal branding
 
 ## My Insight
-His content builds credibility through proof and structure, which makes it very convincing.
+Compared to others, his content feels more “systematic”. From what I observed, he builds trust by showing results and clear processes, not just opinions.
