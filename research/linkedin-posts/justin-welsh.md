@@ -22,3 +22,9 @@ From what I noticed, his content is not actually “new” every time, but it st
 - Topic: Consistency in content creation
 - Format: Bullet points + clean structure
 - My note: Simpel tapi jelas. Gampang di-scan dan langsung dapet poinnya.
+
+### Example Post
+
+- Topic: Building a personal brand on LinkedIn
+- Format: Short lines + bullet points
+- My note: The structure is very easy to scan. Short sentences and clean formatting make it simple but effective.
