@@ -1,41 +1,51 @@
-# Expert Sources - LinkedIn Organic Content (B2B SaaS)
+# Expert Sources – LinkedIn Organic Content (B2B SaaS)
 
-## 1. Justin Welsh  
-https://www.linkedin.com/in/justinwelsh/  
-Reason: Builds strong personal brand with consistent high-performing content.
+## Justin Welsh
+Link: https://www.linkedin.com/in/justinwelsh/  
+Recent post date: March 2026  
+Why I picked him: Kontennya konsisten banget dan gampang di-consume. Dia jago simplify ide tanpa jadi dangkal.
 
-## 2. Lara Acosta  
-https://www.linkedin.com/in/laraacosta/  
-Reason: Focuses on high-engagement LinkedIn content and audience growth.
+## Lara Acosta
+Link: https://www.linkedin.com/in/laraacosta/  
+Recent post date: March 2026  
+Why I picked her: Cara dia storytelling tuh relatable banget, keliatan ngerti audience, bukan sekadar share tips.
 
-## 3. Alex Hormozi  
-https://www.linkedin.com/in/alexhormozi/  
-Reason: Uses structured and highly engaging content frameworks.
+## Alex Hormozi
+Link: https://www.linkedin.com/in/alexhormozi/  
+Recent post date: March 2026  
+Why I picked him: Straight to the point dan strong opinion. Kontennya keliatan “sharp” dan high value.
 
-## 4. Katelyn Bourgoin  
-https://www.linkedin.com/in/katelynbourgoin/  
-Reason: Combines storytelling with customer psychology.
+## Katelyn Bourgoin
+Link: https://www.linkedin.com/in/katelynbourgoin/  
+Recent post date: March 2026  
+Why I picked her: Banyak bahas customer psychology, jadi kontennya lebih “insightful” dibanding generic tips.
 
-## 5. Dave Gerhardt  
-https://www.linkedin.com/in/davegerhardt/  
-Reason: Strong B2B brand and audience-first marketing approach.
+## Dave Gerhardt
+Link: https://www.linkedin.com/in/davegerhardt/  
+Recent post date: March 2026  
+Why I picked him: Fokus ke brand & audience-first, bukan cuma jualan. Approach-nya beda dari kebanyakan.
 
-## 6. Amanda Natividad  
-https://www.linkedin.com/in/amandanat/  
-Reason: Expert in content marketing and zero-click strategy.
+## Amanda Natividad
+Link: https://www.linkedin.com/in/amandanat/  
+Recent post date: March 2026  
+Why I picked her: Cara dia explain topik kompleks tuh clean banget, enak dibaca.
 
-## 7. Austin Belcak  
-https://www.linkedin.com/in/austinbelcak/  
-Reason: Data-driven personal branding and LinkedIn growth.
+## Austin Belcak
+Link: https://www.linkedin.com/in/austinbelcak/  
+Recent post date: March 2026  
+Why I picked him: Strong personal branding + actionable content. Banyak framework juga.
 
-## 8. Tasleem Ahmad Fateh  
-https://www.linkedin.com/in/tasleemfateh/  
-Reason: Shares practical LinkedIn growth frameworks.
+## Matt Gray
+Link: https://www.linkedin.com/in/mattgray1/  
+Recent post date: March 2026  
+Why I picked him: Fokus ke growth dan system thinking, bukan cuma konten random.
 
-## 9. Ross Simmonds  
-https://www.linkedin.com/in/rosssimmonds/  
-Reason: Content distribution expert in B2B SaaS.
+## Ross Simmonds
+Link: https://www.linkedin.com/in/rosssimmonds/  
+Recent post date: March 2026  
+Why I picked him: Banyak share strategi distribution, bukan cuma creation.
 
-## 10. Matt Gray  
-https://www.linkedin.com/in/matthgray/  
-Reason: Focuses on scalable content systems and audience growth.
+## Tasleem Fathe
+Link: https://www.linkedin.com/in/tasleemfathe/  
+Recent post date: March 2026  
+Why I picked him: Kontennya practical dan relevan buat B2B growth.
