@@ -17,3 +17,8 @@
 
 ## My Insight
 Compared to others, his content feels more intense and less “friendly”. But that’s probably why it stands out. In my opinion, it works well for audiences who are looking for clear, actionable advice without too much storytelling.
+
+## Example Post
+- Topic: Business growth vs excuses
+- Format: Strong hook + short paragraphs
+- My note: Opening line langsung “nabrak”, bikin orang berhenti scroll. Dia ga muter-muter.
