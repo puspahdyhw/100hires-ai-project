@@ -17,3 +17,9 @@
 
 ## My Insight
 His content focuses on long term systems rather than short term tactics, which makes it more sustainable.
+
+### Example Post
+
+- Topic: Systems for scaling content
+- Format: Framework + clear steps
+- My note: The content is very structured and system-focused, making it practical and easy to apply.
