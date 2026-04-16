@@ -17,3 +17,8 @@
 
 ## My Insight
 From what I noticed, his content is not actually “new” every time, but it still performs because of how it’s structured. Personally, I feel his biggest strength is making content very easy to consume, especially for people scrolling quickly.
+
+## Example Post
+- Topic: Consistency in content creation
+- Format: Bullet points + clean structure
+- My note: Simpel tapi jelas. Gampang di-scan dan langsung dapet poinnya.
