@@ -1,19 +1,19 @@
 # Alex Hormozi - Content Analysis
 
 ## Content Style
-- Direct and no-nonsense
-- Uses structured frameworks
-- High-value density
+- Very direct and blunt
+- Focused on value and results
+- Less storytelling, more straight insights
 
 ## Patterns
-- Bold statements as hooks
-- Uses numbers and lists
-- Focus on execution
+- Starts with strong or even controversial statements
+- Uses numbers and clear frameworks
+- Focuses on execution, not theory
 
 ## Example Themes
 - Business growth
-- Revenue systems
-- Scaling
+- Revenue strategies
+- Scaling systems
 
 ## My Insight
-His content stands out because it cuts straight to value. There’s almost no fluff, which makes it highly efficient to read.
+Compared to others, his content feels more intense and less “friendly”. But that’s probably why it stands out. In my opinion, it works well for audiences who are looking for clear, actionable advice without too much storytelling.
