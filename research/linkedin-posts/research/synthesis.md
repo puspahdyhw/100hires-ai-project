@@ -41,4 +41,17 @@ Honestly, the biggest thing I learned is that good content is not about being th
 
 Some creators even repeat similar ideas, but they still perform well because they package it differently each time.
 
-If I were to apply this, I would focus more on clarity and consistency instead of trying to create something completely new every time.
+## Common Patterns Across Creators
+- Most creators start with a strong hook in the first line
+- Content is structured for readability (short paragraphs or bullet points)
+- Each post focuses on one clear idea
+
+## What Works
+- Clarity over complexity
+- Content that is easy to scan performs better
+- Consistency matters more than occasional virality
+
+## What Doesn’t Work
+- Long explanations without clear structure
+- Trying to cover too many ideas in one post
+- Generic tone without a clear point of view
