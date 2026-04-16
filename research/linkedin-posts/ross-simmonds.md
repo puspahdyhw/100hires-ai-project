@@ -1,14 +1,14 @@
 # Ross Simmonds - Content Analysis
 
 ## Content Style
-- Strategic and high level
-- Focus on distribution
+- More strategic and big picture
+- Focuses on distribution, not just content creation
 - Professional tone
 
 ## Patterns
-- Talks about scaling content
-- Emphasizes distribution
-- Big picture thinking
+- Talks a lot about scaling content
+- Emphasizes distribution channels
+- Less about writing style, more about strategy
 
 ## Example Themes
 - Content distribution
@@ -16,4 +16,4 @@
 - Marketing strategy
 
 ## My Insight
-He highlights something many people miss: distribution is as important as creation.
+What stood out to me is how much he focuses on distribution. Most creators talk about writing better content, but he highlights that getting content seen is just as important.
