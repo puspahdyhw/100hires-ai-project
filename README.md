@@ -55,8 +55,22 @@ For the second step, I focused on understanding how top B2B creators approach Li
 - Documented individual breakdowns in `/research/linkedin-posts`
 - Created a synthesis of key insights in `/research/synthesis.md`
 
+### Why These Experts
+
+I focused on creators who are actively building and sharing real world insights, not just theoretical advice.
+
+Most of them consistently generate strong engagement, which signals that their content resonates with actual audiences.
+
+I also intentionally selected a mix of styles (direct, storytelling, and educational) to understand what works across different tones.
+
 ### Key Learning
 
 One thing that surprised me is how often top creators repeat similar ideas, but still perform well because of how they structure and present them.
 From this research, I realized that strong content is not necessarily complex. The most effective creators focus on clarity, consistency, and making their ideas easy to consume.
+
+### What I’d Do Next
+
+If I were to turn this into a playbook, I would focus on defining a repeatable structure for high performing LinkedIn posts, combining strong hooks, simple formatting, and clear takeaways.
+
+The goal would be to make content both easy to produce and consistently engaging.
 
