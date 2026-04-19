@@ -75,3 +75,8 @@ If I were to turn this into a playbook, I would focus on defining a repeatable s
 The goal would be to make content both easy to produce and consistently engaging.
 
 This ensures the insights are grounded in actual performance, not just opinions.
+
+## Playbook (Final Output)
+
+The final playbook based on this research can be found here:  
+👉 /research/playbook.md
